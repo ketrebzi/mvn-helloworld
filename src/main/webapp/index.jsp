@@ -144,7 +144,7 @@
 <body>
     <h1>Bienvenue</h1>
         <h1> Fawzi </h1>
-        <h1>Jenkins cool </h1>
+        <h1>Jenkins CI/CD </h1>
     <div class="balloon"></div>
     <div class="balloon"></div>
     <div class="balloon"></div>
