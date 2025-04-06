@@ -142,8 +142,8 @@
     </style>
 </head>
 <body>
-    <h1>Bienvenue</h1>
-        <h1> Ketreb fz </h1>
+    <h1>Bienvenue,</h1>
+        <h1> Ketreb fz  </h1>
         <h1>Jenkins CI/CD </h1>
     <div class="balloon"></div>
     <div class="balloon"></div>
